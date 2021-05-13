@@ -26,5 +26,8 @@ class SignUpViewController: ViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
+    @IBAction func onSignUp(_ sender: Any) {
+        performSegue(withIdentifier: "Segueidentifier", sender: self)
+    }
+    
 }
