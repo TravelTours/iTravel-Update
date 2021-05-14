@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68E040816A40399020B1125163CF08B5"
-               BuildableName = "Parse.bundle"
-               BlueprintName = "Parse-Parse"
+               BlueprintIdentifier = "AF9CA2088D9B3A66229A1B4DEDC91451"
+               BuildableName = "MessageInputBar.framework"
+               BlueprintName = "MessageInputBar"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
